@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993039975880",
+    "project_id": "bone-clicker",
+    "storage_bucket": "bone-clicker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993039975880:android:f14f3de20d6b00d6bfecfd",
+        "android_client_info": {
+          "package_name": "com.Platanus.BoneClicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGh6Q6NzNcuZZutmjUAufhCBR1g_hUADI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
